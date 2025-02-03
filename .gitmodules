@@ -4,4 +4,4 @@
 
 [submodule "config"]
 	path = config
-	url = https://github.com/blue-bird1/mc-server-config
+	url = https://github.com/blue-bird1/mc-server-config.git
