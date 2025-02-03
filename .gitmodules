@@ -1,3 +1,7 @@
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/blue-bird1/mc-script
+
+[submodule "config"]
+	path = config
+	url = https://github.com/blue-bird1/mc-server-config
